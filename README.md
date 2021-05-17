@@ -31,6 +31,7 @@ MacBook Pro (16-inch, 2019)
     pyenv install 3.7.7
     pyenv local 3.7.7
     poetry config virtualenvs.in-project true
+    poetry install
     ```
 ## 諸々の考察
 
