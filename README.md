@@ -105,6 +105,7 @@ MacBook Pro (16-inch, 2019)
 ## 実行
 
 - gcpのproject_idを`yamls/config.yaml`内のproject_idに書く
+- BQのwalmartデータセット以下にcsvのファイル名と同じ名前のテーブルをアップロードして作成する。
 - 特徴量の作成
 ```sh
 # versionは上の表のものに準じている
